@@ -1,0 +1,9 @@
+Package: com.artikus.fullscreencc
+Name: FullscreenCC
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fullscreen control center for iOS 7 - 9.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
